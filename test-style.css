@@ -21,7 +21,7 @@ body{
 .container{
     background-image:
     linear-gradient(to right, #01022de5, #00000098),
-    url(imagesss/avatar.webp);
+    url(avatar.webp);
     width: 90%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -32,7 +32,7 @@ body{
 .container:hover{
     background-image:
     linear-gradient(to right, #01022de5, transparent),
-    url(imagesss/avatar.webp);
+    url(avatar.webp);
 }
 
 header{
